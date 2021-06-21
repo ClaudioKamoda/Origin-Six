@@ -7,6 +7,7 @@ Origin Six web app developed during June 2021 **Next Level Week** by **Rocketsea
 -   Repository created.
 -   Figma design copied to my personal dashboard.
 -   **_index.html_** created.
--   Structured the top of the page.
+-   Structured **_header_** and **_home_** sections.
 -   **_style.css_** created.
--   finished the **_header_** and **_home_** sections.
+-   Styled **_header_** and **_home_** sections.
+-   Finished the **_header_** and **_home_** sections in the mobile version.
