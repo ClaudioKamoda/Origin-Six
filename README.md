@@ -18,3 +18,4 @@ Origin Six web app developed during June 2021 **Next Level Week** by **Rocketsea
 
 -   Started implementing the menu effects in mobile mode.
 -   Changed menu to **_ul_** elements and made them ocupy the entire screen.
+-   Added icons and setted them up on the **_index.html_** file.
