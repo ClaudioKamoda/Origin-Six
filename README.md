@@ -27,4 +27,4 @@ Origin Six web app developed during June 2021 **Next Level Week** by **Rocketsea
 -   Structured an styled the **_services_** section.
 -   Added a shadow to the header when scrolling.
 
-![GIF from the page working](https://github.com/ClaudioKamoda/Origin-Six/blob/main/README-Images/June21.GIF)
+![GIF from the page working](https://github.com/ClaudioKamoda/Origin-Six/blob/main/README-Images/June21.gif)
