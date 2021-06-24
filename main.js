@@ -28,3 +28,38 @@ window.addEventListener('scroll', function () {
 		header.classList.remove('scroll')
 	}
 })
+
+//Swiper Carousel
+const swiper = new Swiper('.swiper-container', {
+	slidesPerView: 1,
+	pagination: {
+		el: '.swiper-pagination'
+	},
+	mousewheel: true,
+	keyboard: true
+})
+
+//Trigger an alert on whatsapp button
+const whatsapp = document.querySelector('.whatsapp')
+
+whatsapp.addEventListener('click', function () {
+	alert('Learning project: no number available')
+})
+
+//Scroll Reveal
+const scrollReveal = ScrollReveal({
+	origin: 'top',
+	distance: '30px',
+	duration: 700,
+	reset: true
+})
+
+scrollReveal.reveal(
+	`#home .text, #home .image,
+	#about .text, #about .image,
+	#services header, #services .card,
+	#testimonials header, #testimonials .testimonials
+	#contact .text, #contact .links
+	`,
+	{ interval: 100 }
+)

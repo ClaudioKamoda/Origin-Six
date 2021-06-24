@@ -28,3 +28,14 @@ Origin Six web app developed during June 2021 **Next Level Week** by **Rocketsea
 -   Added a shadow to the header when scrolling.
 
 ![GIF from the page working](https://github.com/ClaudioKamoda/Origin-Six/blob/main/README-Images/June21.gif)
+
+#### June 22 Update (Class 03):
+
+-   Structured the **_testimonials_** and the **_contact_** sections.
+-   Added links to **_Swiper.js_**.
+-   Styled the **_testimonials_** and the **_contact_** sections.
+-   Setted up **_Swiper.js_** on the **_testimonials_** section.
+-   Added alert to inform that the contact button isn't available.
+-   Added Scroll Reveal to smooth even more the scrolling on the page.
+
+![GIF from the page working](https://github.com/ClaudioKamoda/Origin-Six/blob/main/README-Images/June22.gif)
