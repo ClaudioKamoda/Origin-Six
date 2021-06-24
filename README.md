@@ -2,7 +2,7 @@
 
 Origin Six web app developed during June 2021 **Next Level Week** by **Rocketseat**.
 
-#### June 20 Update (Class 01):
+### June 20 Update (Class 01):
 
 -   Repository created.
 -   Figma design copied to my personal dashboard.
@@ -14,7 +14,7 @@ Origin Six web app developed during June 2021 **Next Level Week** by **Rocketsea
 
 ![Screenshot from the beginning of the project](https://github.com/ClaudioKamoda/Origin-Six/blob/main/README-Images/June20.PNG)
 
-#### June 21 Update (Class 02):
+### June 21 Update (Class 02):
 
 -   Started implementing the menu effects in mobile mode.
 -   Changed menu to **_ul_** elements and made them ocupy the entire screen.
@@ -29,7 +29,7 @@ Origin Six web app developed during June 2021 **Next Level Week** by **Rocketsea
 
 ![GIF from the page working](https://github.com/ClaudioKamoda/Origin-Six/blob/main/README-Images/June21.gif)
 
-#### June 22 Update (Class 03):
+### June 22 Update (Class 03):
 
 -   Structured the **_testimonials_** and the **_contact_** sections.
 -   Added links to **_Swiper.js_**.
@@ -39,3 +39,11 @@ Origin Six web app developed during June 2021 **Next Level Week** by **Rocketsea
 -   Added Scroll Reveal to smooth even more the scrolling on the page.
 
 ![GIF from the page working](https://github.com/ClaudioKamoda/Origin-Six/blob/main/README-Images/June22.gif)
+
+### June 23 Update (Class 04):
+
+-   Structured the **_social_** section.
+-   Styled the **_social_** section.
+-   Added a button to go back to the top of the page.
+
+![Screenshot from the social section](https://github.com/ClaudioKamoda/Origin-Six/blob/main/README-Images/June23.PNG)

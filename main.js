@@ -18,16 +18,16 @@ for (link of links) {
 }
 
 //change header shadow when scrolling
-const header = document.querySelector('#header')
-const navHeight = header.offsetHeight
+function addShadowOnHeader() {
+	const header = document.querySelector('#header')
+	const navHeight = header.offsetHeight
 
-window.addEventListener('scroll', function () {
 	if (window.scrollY >= navHeight) {
 		header.classList.add('scroll')
 	} else {
 		header.classList.remove('scroll')
 	}
-})
+}
 
 //Swiper Carousel
 const swiper = new Swiper('.swiper-container', {
@@ -58,8 +58,26 @@ scrollReveal.reveal(
 	`#home .text, #home .image,
 	#about .text, #about .image,
 	#services header, #services .card,
-	#testimonials header, #testimonials .testimonials
-	#contact .text, #contact .links
+	#testimonials header, #testimonials .testimonials,
+	#contact .text, #contact .links,
+	footer .brand, footer .social
 	`,
 	{ interval: 100 }
 )
+
+//Back to top button
+function backToTop() {
+	const backToTopButton = document.querySelector('.back-to-top')
+
+	if (window.scrollY >= 560) {
+		backToTopButton.classList.add('show')
+	} else {
+		backToTopButton.classList.remove('show')
+	}
+}
+
+//scrolling events
+window.addEventListener('scroll', function () {
+	addShadowOnHeader()
+	backToTop()
+})
