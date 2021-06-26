@@ -53,3 +53,5 @@ Origin Six web app developed during June 2021 **Next Level Week** by **Rocketsea
 -   Adapted the layout to response to the desktop version.
 -   Added active section response to header.
 -   Changed the theme of the project to a pizza website.
+
+![Screenshot from the finished project](https://github.com/ClaudioKamoda/Origin-Six/blob/main/README-Images/June24.PNG)
