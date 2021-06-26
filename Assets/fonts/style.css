@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?t7vo8b');
-  src:  url('fonts/icomoon.eot?t7vo8b#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?t7vo8b') format('truetype'),
-    url('fonts/icomoon.woff?t7vo8b') format('woff'),
-    url('fonts/icomoon.svg?t7vo8b#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?ts0npd');
+  src:  url('fonts/icomoon.eot?ts0npd#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ts0npd') format('truetype'),
+    url('fonts/icomoon.woff?ts0npd') format('woff'),
+    url('fonts/icomoon.svg?ts0npd#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-local_pizza:before {
+  content: "\e902";
+}
+.icon-store_mall_directory:before {
+  content: "\e908";
+}
+.icon-store:before {
+  content: "\e908";
+}
+.icon-motorcycle:before {
+  content: "\e90a";
+}
 .icon-arrow-up:before {
   content: "\e90c";
 }
@@ -33,9 +45,6 @@
 }
 .icon-close:before {
   content: "\e901";
-}
-.icon-cosmetic:before {
-  content: "\e902";
 }
 .icon-facebook:before {
   content: "\e903";
@@ -52,14 +61,8 @@
 .icon-menu:before {
   content: "\e907";
 }
-.icon-trim:before {
-  content: "\e908";
-}
 .icon-whatsapp:before {
   content: "\e909";
-}
-.icon-woman-hair:before {
-  content: "\e90a";
 }
 .icon-youtube:before {
   content: "\e90b";
